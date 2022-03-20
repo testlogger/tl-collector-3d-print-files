@@ -5,6 +5,9 @@ This folder has all brackets for AE RC10B6 series two wheel drive car. This file
 
 ## Magnet ring
 Magnet ring has slot for four magnets. Designed magnet size is 3x1mm.
+* Ring is designed to be installed to new outdrives, so make sure you clean any extra material from top level of outdrive if you use old outdrives.
+* To install the ring, please push thinner part of the ring against outdrive bearings
+* Ring should fit in place quite nicely but it is ok to secure the installation with small amount of CA glue.
 
 How install magnets?
 1. Get long nose pliers or any pliers with fairly thin flat surface on the tip
