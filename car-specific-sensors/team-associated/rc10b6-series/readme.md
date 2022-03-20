@@ -1,8 +1,7 @@
-#Team Associated B6 series brackets
+# Team Associated B6 series brackets
 This folder has all brackets for AE RC10B6 series two wheel drive car. This file has some instructions how to install the
 
-![Image 1](b6-wheel-speed-1.jpg?raw=true)
-![Image 2](b6-wheel-speed-2.jpg?raw=true)
+<img src="b6-wheel-speed-1.jpg" width="400"> <img src="b6-wheel-speed-2.jpg" width="400">
 
 ## Magnet ring
 Magnet ring has slot for four magnets. Designed magnet size is 3x1mm.
